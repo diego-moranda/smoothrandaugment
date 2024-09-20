@@ -49,7 +49,7 @@ The parameters are:
 ## Example
 This is an example of `Smoothrandaugment` applied to a video with a [Charlotte thermal face](https://github.com/TeCSAR-UNCC/UNCC-ThermalFace) used as background. In particular, smooth rotation and brightness were applied.
 
-![alt text](link)
+<p align="center"><img src="smoothrandaugment_example.gif" alt="Smoothrandaugment example" width="25%" height="25%"/></p>
 
 ## References
 <a id=1>[1]</a>
